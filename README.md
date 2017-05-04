@@ -19,7 +19,7 @@ This project requires **Python 2.7** and the following Python libraries installe
 
 ### Run
 
-In order to run the code, you also need the files **__init__.py**, **environment.py**, **planner.py** and **simulator.py**. You can find these files in the Udacity project repository linked in the beginning of this readme.
+In order to run the code, you also need the files **\_\_init__.py**, **environment.py**, **planner.py** and **simulator.py**. You can find these files in the Udacity project repository linked in the beginning of this readme.
 
 In a terminal or command window, run the following command:
 
